@@ -1,0 +1,5 @@
+#English implementation
+com.yjk.example.spi.impl.EnglishDemoServiceImpl
+
+#Chinese implementation
+com.yjk.example.spi.impl.ChineseDemoServiceImpl
